@@ -1,2 +1,2 @@
-# docs.pencil.li
-Documents for Pencil.li site
+# pencil-developers
+Pencil Developers
